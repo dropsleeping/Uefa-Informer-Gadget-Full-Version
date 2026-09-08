@@ -233,3 +233,6 @@ This repository serves as the official landing page for UEFA Informer Gadget. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of UEFA Informer Gadget today!**
+
+---
+**Last updated:** 2026-09-08 21:29:43 UTC
