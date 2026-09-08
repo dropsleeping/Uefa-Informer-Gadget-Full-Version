@@ -1,0 +1,1 @@
+# Uefa-Informer-Gadget-Full-Version
